@@ -1,0 +1,5 @@
+date,Ambiguous Interface,Cyclic Dependency,Dense Structure,Feature Concentration,God Component,Scattered Functionality,Unstable Dependency,Total Smells,DS avg. degree,PC,DL,Code Coverage,LOC,Nr. of Classes
+2016-10-09,0,1,0,1,0,2,0,4,,,,61.71%,636,7
+2016-11-07,0,1,0,1,0,1,0,3,,,,60.18%,689,7
+2016-12-06,0,1,0,1,0,1,0,3,,,,60.18%,689,7
+2017-01-05,0,1,0,1,0,1,0,3,,,,60.85%,582,7

@@ -1,0 +1,5 @@
+date,Ambiguous Interface,Cyclic Dependency,Dense Structure,Feature Concentration,God Component,Scattered Functionality,Unstable Dependency,Total Smells,DS avg. degree,PC,DL,Code Coverage,LOC,Nr. of Classes
+2019-01-25,0,0,0,1,0,0,1,2,,,,79.86%,204,11
+2019-02-25,0,0,0,1,0,0,1,2,,,,79.86%,204,11
+2019-03-26,0,0,0,1,0,0,1,2,,,,79.86%,204,11
+2019-04-24,0,0,0,1,0,0,1,2,,,,79.86%,204,11
