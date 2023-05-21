@@ -1,7 +1,8 @@
 # Reproduction Package for "Studying the Relationship between Architectural Smells and Maintainability"
 
 This repository contains the reproduction package for the study "Studying the Relationship between Architectural
-Smells and Maintainability". The main goal of this package is to facilitate the replication and verification of the results presented in the study. It includes the source code of the tool developed for the study, the test data used, and detailed instructions on how to run the tool and reproduce the results.
+Smells and Maintainability". The main goal of this package is to facilitate the replication and verification of the results presented in the study. 
+It includes the source code of the tool developed for the study, and detailed instructions on how to run the tool and reproduce the results.
 
 ## Contents
 
